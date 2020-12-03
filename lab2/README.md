@@ -94,3 +94,15 @@ python client.py
 
 ### Output Examples:
 
+**Server without errors:**
+![alt text](https://github.com/ivyana/PR/blob/main/lab2/output/1.PNG)
+![alt text](https://github.com/ivyana/PR/blob/main/lab2/output/2.PNG)
+
+**Client without errors:**
+![alt text](https://github.com/ivyana/PR/blob/main/lab2/output/3.PNG)
+![alt text](https://github.com/ivyana/PR/blob/main/lab2/output/4.PNG)
+
+**Here was introduced error and dropping packets probability:**
+![alt text](https://github.com/ivyana/PR/blob/main/lab2/output/5.PNG)
+
+
